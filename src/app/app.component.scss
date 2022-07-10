@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+}
+
+h1, h2, p, h3, a{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.b2{
+    img{
+        width: 400px;
+        height: 250px;
+        margin-top: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }    
+    width: 500px;
+    height: 500px;
+    margin-top: 80px;
+    border: 1px solid rgb(53, 53, 53);
+    
+    p{
+        margin-left: 10px;
+    }
+}
+a{
+    margin-left: 5px;
+    margin-top: 29px;
+    margin-right: 10px;
+}
